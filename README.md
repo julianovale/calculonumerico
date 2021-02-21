@@ -4,7 +4,7 @@ Curso "Cálculo Numérico Para Todos" do Prof. Dr. Aníbal Tavares de Azevedo
 
 Baseado nos livros:
 
-GOMES-RUGGIERO, Márcia A.; LOPES, Vera LR. **Cálculo Numérico**: Aspectos Teóricos e Computacionais. 2. ed., São Paulo: Makron Books, 1996.
+GOMES-RUGGIERO, Márcia A.; LOPES, Vera LR. **Cálculo Numérico**: Aspectos Teóricos e Computacionais. 2. ed., São Paulo: Makron Books, 1996.<br />
 FRANCO, Neide Bertoldi. **Cálculo numérico**. São Paulo: Pearson, 2006.
 
 
