@@ -1,2 +1,9 @@
-# calculonumerico
-Curso "Cálculo Numérico Para Todos"
+# Cálculo numérico para todos
+
+Curso "Cálculo Numérico Para Todos" do Prof. Dr. Aníbal Tavares de Azevedo
+
+Baseado nos livros:
+
+GOMES-RUGGIERO, Márcia A.; LOPES, Vera LR. Calculo Numérico: Aspectos Teóricos e Computacionais. 2. ed., São Paulo: Makron Books, 1996.
+
+
