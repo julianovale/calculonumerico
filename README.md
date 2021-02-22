@@ -16,3 +16,4 @@ FRANCO, Neide Bertoldi. **Cálculo numérico**. São Paulo: Pearson, 2006.
 [Módulo01_Aula06 - Conversão entre sistemas numéricos (teórica)](/CNPT_01_06.ipynb) <br />
 [Módulo01_Aula07 - Conversão: Binário -> Decimal](/CNPT_01_07.ipynb) <br />
 [Módulo01_Aula08 - Conversão: Decimal -> Binário](/CNPT_01_08.ipynb) <br />
+[Módulo01_Aula09 - Conversão: Binário -> Decimal - com dígitos após a vírgula](/CNPT_01_09.ipynb) <br />
