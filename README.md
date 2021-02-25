@@ -18,4 +18,4 @@ FRANCO, Neide Bertoldi. **Cálculo numérico**. São Paulo: Pearson, 2006.
 [Módulo01_Aula08 - Conversão: Decimal -> Binário](/CNPT_01_08.ipynb) <br />
 [Módulo01_Aula09 - Conversão: Binário -> Decimal - com dígitos após a vírgula](/CNPT_01_09.ipynb) <br />
 [Módulo01_Aula10 - Conversão: Decimal -> Binário - com dígitos após a vírgula (teórica)](/CNPT_01_10.ipynb) <br />
-[Módulo01_Aula11 - Ponto flutuante](/CNPT_01_11.ipynb) <br />
+[Módulo01_Aula11 - Ponto flutuante (teórica)](/CNPT_01_11.ipynb) <br />
