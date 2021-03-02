@@ -24,3 +24,4 @@ FRANCO, Neide Bertoldi. **Cálculo numérico**. São Paulo: Pearson, 2006.
 [Módulo01_Aula14 - Erro absoluto e erro relativo (teórica)](/CNPT_01_14.ipynb) <br />
 [Módulo01_Aula15 - Erro absoluto e erro relativo (teórica)](/CNPT_01_15.ipynb) <br />
 [Módulo02_Aula01 - Zero de funções (motivação)](/CNPT_02_01.ipynb) <br />
+[Módulo02_Aula02 - Zero de funções (teoria - método gráfico)](/CNPT_02_02.ipynb) <br />
