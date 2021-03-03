@@ -27,3 +27,4 @@ FRANCO, Neide Bertoldi. **Cálculo numérico**. São Paulo: Pearson, 2006.
 [Módulo02_Aula02 - Zero de funções (teoria - método gráfico)](/CNPT_02_02.ipynb) <br />
 [Módulo02_Aula03 - Gráfico de funções 1](/CNPT_02_03.ipynb) <br />
 [Módulo02_Aula04 - Gráfico de funções 2](/CNPT_02_04.ipynb) <br />
+[Módulo02_Aula05 - Teorema para isolamento das raízes](/CNPT_02_05.ipynb) <br />
