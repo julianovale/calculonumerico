@@ -30,6 +30,6 @@ FRANCO, Neide Bertoldi. **Cálculo numérico**. São Paulo: Pearson, 2006.
 [Módulo02_Aula05 - Teorema para isolamento das raízes](/CNPT_02_05.ipynb) <br />
 [Módulo02_Aula06 - Equação equivalente: gráficos](/CNPT_02_06.ipynb) <br />
 [Módulo02_Aula07 - Métodos iterativos (teoria)](/CNPT_02_07.ipynb) <br />
-[Módulo02_Aula08 - Método da bissetriz (teoria)](/CNPT_02_08.ipynb) <br />
-[Módulo02_Aula09 - Método da bissetriz (problema exemplo)](/CNPT_02_09.ipynb) <br />
-[Módulo02_Aula10 - Método da bissetriz (passos iniciais)](/CNPT_02_10.ipynb) <br />
+[Módulo02_Aula08 - Método da bissecção (teoria)](/CNPT_02_08.ipynb) <br />
+[Módulo02_Aula09 - Método da bissecção (problema exemplo)](/CNPT_02_09.ipynb) <br />
+[Módulo02_Aula10 - Método da bissecção (passos iniciais)](/CNPT_02_10.ipynb) <br />
